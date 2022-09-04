@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @2003tanmay
 - 👀 I’m interested in Web Devlopment, Competitive Coding & in DSA.
-- 🌱 I’m currently learning Web Devlopment.
+- 🌱 I’m currently learning Data Structure and Algorithm.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
