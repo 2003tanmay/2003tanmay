@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Devlopment, Competitive Coding & in DSA.
 - 🌱 I’m currently learning Data Structure and Algorithm.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me on tanmayspal2003@gmail.com
 
 <!---
 2003tanmay/2003tanmay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
