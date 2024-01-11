@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Tanmay Pal
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2003tanmay&label=Profile%20views&color=0e75b6&style=flat" alt="2003tanmay" /> </p>
-- 🔭 I’m currently working on **appwriteblog**
-<br>
-- 🌱 I’m currently learning **React and Next js**
+🔭 I’m currently working on **appwriteblog**
+
+🌱 I’m currently learning **React and Next js**
+
 <div style="display: inline_block"><br>
 <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
